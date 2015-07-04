@@ -1,0 +1,104 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AR	cpptraning/project.mak	/^AR=ar$/;"	m
+AR	project.mak	/^AR=ar$/;"	m
+ARFLAGS	cpptraning/project.mak	/^ARFLAGS=rcv$/;"	m
+ARFLAGS	project.mak	/^ARFLAGS=rcv$/;"	m
+BASE_DIR	Makefile	/^BASE_DIR=.$/;"	m
+BASE_DIR	cpptraning/Makefile	/^BASE_DIR=.$/;"	m
+BASE_DIR	cpptraning/my_iostream/Makefile	/^BASE_DIR=..$/;"	m
+BASE_DIR	cpptraning/my_string/Makefile	/^BASE_DIR=..$/;"	m
+BASE_DIR	cpptraning/vector/Makefile	/^BASE_DIR=..$/;"	m
+BASE_DIR	my_iostream/Makefile	/^BASE_DIR=..$/;"	m
+BASE_DIR	my_string/Makefile	/^BASE_DIR=..$/;"	m
+BASE_DIR	vector/Makefile	/^BASE_DIR=..$/;"	m
+CFLAGS	cpptraning/project.mak	/^CFLAGS=-std=c++11$/;"	m
+CFLAGS	project.mak	/^CFLAGS=-std=c++11$/;"	m
+DEP_PROJECT	Makefile	/^DEP_PROJECT=vector my_string$/;"	m
+DEP_PROJECT	cpptraning/Makefile	/^DEP_PROJECT=vector my_string$/;"	m
+DEPs	cpptraning/project.mak	/^DEPs=$(patsubst %.cpp,${OBJDIR}\/%.d,${SRCs})$/;"	m
+DEPs	project.mak	/^DEPs=$(patsubst %.cpp,${OBJDIR}\/%.d,${SRCs})$/;"	m
+DOT	cpptraning/my_iostream/Makefile	/^	DOT=.$/;"	m
+DOT	cpptraning/my_iostream/Makefile	/^DOT=$/;"	m
+DOT	cpptraning/my_string/Makefile	/^	DOT=.$/;"	m
+DOT	cpptraning/my_string/Makefile	/^DOT=$/;"	m
+DOT	cpptraning/vector/Makefile	/^	DOT=.$/;"	m
+DOT	cpptraning/vector/Makefile	/^DOT=$/;"	m
+DOT	my_iostream/Makefile	/^	DOT=.$/;"	m
+DOT	my_iostream/Makefile	/^DOT=$/;"	m
+DOT	my_string/Makefile	/^	DOT=.$/;"	m
+DOT	my_string/Makefile	/^DOT=$/;"	m
+DOT	vector/Makefile	/^	DOT=.$/;"	m
+DOT	vector/Makefile	/^DOT=$/;"	m
+EXPORTMAP_FILE	cpptraning/project.mak	/^EXPORTMAP_FILE=exportmap$/;"	m
+EXPORTMAP_FILE	project.mak	/^EXPORTMAP_FILE=exportmap$/;"	m
+GPP	cpptraning/project.mak	/^GPP=g++$/;"	m
+GPP	project.mak	/^GPP=g++$/;"	m
+LDFLAGS	cpptraning/project.mak	/^LDFLAGS=$/;"	m
+LDFLAGS	project.mak	/^LDFLAGS=$/;"	m
+MY_VECTOR_H	cpptraning/vector/vector.h	2;"	d
+MY_VECTOR_H	vector/vector.h	2;"	d
+OBJDIR	cpptraning/project.mak	/^OBJDIR=${BASE_DIR}\/objs$/;"	m
+OBJDIR	project.mak	/^OBJDIR=${BASE_DIR}\/objs$/;"	m
+OBJs	cpptraning/project.mak	/^OBJs=$(patsubst %.cpp,${OBJDIR}\/%.o,${SRCs})$/;"	m
+OBJs	project.mak	/^OBJs=$(patsubst %.cpp,${OBJDIR}\/%.o,${SRCs})$/;"	m
+OUTPUT_DIR	cpptraning/project.mak	/^OUTPUT_DIR=${BASE_DIR}\/output$/;"	m
+OUTPUT_DIR	project.mak	/^OUTPUT_DIR=${BASE_DIR}\/output$/;"	m
+PROJECT	Makefile	/^PROJECT=main$/;"	m
+PROJECT	cpptraning/Makefile	/^PROJECT=main$/;"	m
+PROJECT	cpptraning/my_iostream/Makefile	/^PROJECT=my_iostream$/;"	m
+PROJECT	cpptraning/my_string/Makefile	/^PROJECT=my_string$/;"	m
+PROJECT	cpptraning/vector/Makefile	/^PROJECT=vector$/;"	m
+PROJECT	my_iostream/Makefile	/^PROJECT=my_iostream$/;"	m
+PROJECT	my_string/Makefile	/^PROJECT=my_string$/;"	m
+PROJECT	vector/Makefile	/^PROJECT=vector$/;"	m
+PROJECT_FLAGS	Makefile	/^PROJECT_FLAGS=$/;"	m
+PROJECT_FLAGS	cpptraning/Makefile	/^PROJECT_FLAGS=$/;"	m
+PROJECT_FLAGS	cpptraning/my_iostream/Makefile	/^PROJECT_FLAGS=$/;"	m
+PROJECT_FLAGS	cpptraning/my_string/Makefile	/^PROJECT_FLAGS=$/;"	m
+PROJECT_FLAGS	cpptraning/vector/Makefile	/^PROJECT_FLAGS=$/;"	m
+PROJECT_FLAGS	my_iostream/Makefile	/^PROJECT_FLAGS=$/;"	m
+PROJECT_FLAGS	my_string/Makefile	/^PROJECT_FLAGS=$/;"	m
+PROJECT_FLAGS	vector/Makefile	/^PROJECT_FLAGS=$/;"	m
+REQ_SOs	cpptraning/project.mak	/^REQ_SOs=$/;"	m
+REQ_SOs	project.mak	/^REQ_SOs=$/;"	m
+SRCs	cpptraning/project.mak	/^SRCs=$(wildcard *.cpp)$/;"	m
+SRCs	project.mak	/^SRCs=$(wildcard *.cpp)$/;"	m
+TARGET_EXTENSION	Makefile	/^TARGET_EXTENSION=$/;"	m
+TARGET_EXTENSION	cpptraning/Makefile	/^TARGET_EXTENSION=$/;"	m
+TARGET_EXTENSION	cpptraning/my_iostream/Makefile	/^TARGET_EXTENSION=a$/;"	m
+TARGET_EXTENSION	cpptraning/my_string/Makefile	/^TARGET_EXTENSION=a$/;"	m
+TARGET_EXTENSION	cpptraning/vector/Makefile	/^TARGET_EXTENSION=a$/;"	m
+TARGET_EXTENSION	my_iostream/Makefile	/^TARGET_EXTENSION=a$/;"	m
+TARGET_EXTENSION	my_string/Makefile	/^TARGET_EXTENSION=a$/;"	m
+TARGET_EXTENSION	vector/Makefile	/^TARGET_EXTENSION=a$/;"	m
+_MY_IOSTREAM_H	cpptraning/my_iostream/my_iostream.h	2;"	d
+_MY_IOSTREAM_H	my_iostream/my_iostream.h	2;"	d
+_MY_STRING_H	cpptraning/my_string/my_string.h	2;"	d
+_MY_STRING_H	my_string/my_string.h	2;"	d
+doSomething	cpptraning/vector/vector.cpp	/^    void doSomething()$/;"	f	namespace:my_vector
+doSomething	vector/vector.cpp	/^    void doSomething()$/;"	f	namespace:my_vector
+do_something	cpptraning/my_iostream/my_iostream.cpp	/^    void do_something()$/;"	f	namespace:my_iostream
+do_something	cpptraning/my_string/my_string.cpp	/^    void do_something()$/;"	f	namespace:my_string
+do_something	my_iostream/my_iostream.cpp	/^    void do_something()$/;"	f	namespace:my_iostream
+do_something	my_string/my_string.cpp	/^    void do_something()$/;"	f	namespace:my_string
+hotfix_4	cpptraning/main.cpp	/^void hotfix_4()$/;"	f
+hotfix_4	main.cpp	/^void hotfix_4()$/;"	f
+main	cpptraning/main.cpp	/^int main()$/;"	f
+main	main.cpp	/^int main()$/;"	f
+my_iostream	cpptraning/my_iostream/my_iostream.cpp	/^namespace my_iostream$/;"	n	file:
+my_iostream	cpptraning/my_iostream/my_iostream.h	/^namespace my_iostream$/;"	n
+my_iostream	my_iostream/my_iostream.cpp	/^namespace my_iostream$/;"	n	file:
+my_iostream	my_iostream/my_iostream.h	/^namespace my_iostream$/;"	n
+my_string	cpptraning/my_string/my_string.cpp	/^namespace my_string$/;"	n	file:
+my_string	cpptraning/my_string/my_string.h	/^namespace my_string$/;"	n
+my_string	my_string/my_string.cpp	/^namespace my_string$/;"	n	file:
+my_string	my_string/my_string.h	/^namespace my_string$/;"	n
+my_vector	cpptraning/vector/vector.cpp	/^namespace my_vector$/;"	n	file:
+my_vector	cpptraning/vector/vector.h	/^namespace my_vector$/;"	n
+my_vector	vector/vector.cpp	/^namespace my_vector$/;"	n	file:
+my_vector	vector/vector.h	/^namespace my_vector$/;"	n
